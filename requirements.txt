@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+plotly
+reportlab
+
+
+openai
+FlagEmbedding
+transformers
+torch
